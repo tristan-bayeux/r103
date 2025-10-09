@@ -52,3 +52,7 @@ Une liste
 | elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | ~elt_9~ |
 ## Le sous-titre
 ### Le sous-sous-titre
+- [ ] Option_1
+- [ ] Option_2
+- [ ] Option_3
+- [X] La violence
