@@ -49,13 +49,6 @@ Une liste
 | elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | elt_7 |
 | elt_1 | elt_4 | elt_7 | elt_1 | elt_4 | elt_7 |
 | elt_2 | elt_5 | elt_8 | elt_1 | elt_4 | elt_7 |
-| elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | | ~~Colone~~ | Colone | Colone | Colone | Colone | Colone |
-| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:|
-| elt_1 | elt_4 | elt_7 | elt_1 | elt_4 | elt_7 |
-| elt_2 | elt_5 | elt_8 | elt_1 | elt_4 | elt_7 |
-| elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | elt_7 |
-| elt_1 | elt_4 | elt_7 | elt_1 | elt_4 | elt_7 |
-| elt_2 | elt_5 | elt_8 | elt_1 | elt_4 | elt_7 |
-| elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | elt_7 ||
+| elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | ~elt_9~ |
 ## Le sous-titre
 ### Le sous-sous-titre
