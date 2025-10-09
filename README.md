@@ -28,7 +28,7 @@ ___
 ### Le sous-sous-titre
 Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italique*
 > Une citation
->https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png
+>
 > > Une sous-citation
 ### Le sous-sous-titre
 Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italique*
