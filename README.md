@@ -43,8 +43,8 @@ Une liste
 | ------------- |:-------------:| -----:| ------------- |:-------------:| -----:|
 | elt_1 | elt_4 | elt_7 | elt_1 | elt_4 | ![logo](https://www.mickael-martin-nevot.com/favicon.ico) |
 | elt_2 | elt_5 | elt_8 | elt_1 | ![L'image](https://media.licdn.com/dms/image/v2/D4E03AQHPUOqc3YcwJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698057122388?e=2147483647&v=beta&t=1eZ0wmgaAbXuf0sicPLQNcjPkQueZgYPu5s-KNSY2Qg) | elt_7 |
-| elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | elt_7 |
-| [La meilleure chaîne](https://www.youtube.com/@mmartinnevot) | elt_4 | ![L'image](https://media.licdn.com/dms/image/v2/C4E03AQEAnSvZSN4kaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517671888309?e=2147483647&v=beta&t=RJMrkZE2fs3qH5LXHm-rJowaQYZ74Yn5G5yfJNWThZQ) | elt_1 | elt_4 | elt_7 |
+| elt_3 | elt_6 | ![L'image](https://media.licdn.com/dms/image/v2/C4E03AQEAnSvZSN4kaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517671888309?e=2147483647&v=beta&t=RJMrkZE2fs3qH5LXHm-rJowaQYZ74Yn5G5yfJNWThZQ) | elt_1 | elt_4 | elt_7 |
+| [La meilleure chaîne](https://www.youtube.com/@mmartinnevot) | elt_4 | elt_9 | elt_1 | elt_4 | elt_7 |
 | elt_2 | elt_5 | elt_8 | elt | elt_4 | elt_7 |
 | elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | ~elt_barré~ |
 ## Le sous-titre
