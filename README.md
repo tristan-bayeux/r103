@@ -9,4 +9,4 @@
 ### Le sous-sous-titre
 	Le paragraphe
 ### Le sous-sous-titre
-	Le paragraphe</p>
+	Le paragraphe
