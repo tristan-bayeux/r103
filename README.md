@@ -28,7 +28,7 @@ ___
 ### Le sous-sous-titre
 Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italique*
 > Une citation
->
+>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png
 > > Une sous-citation
 ### Le sous-sous-titre
 Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italique*
@@ -44,9 +44,9 @@ Une liste
 | elt_1 | elt_4 | elt_7 | elt_1 | elt_4 | ![logo](https://www.mickael-martin-nevot.com/favicon.ico) |
 | elt_2 | elt_5 | elt_8 | elt_1 | ![L'image](https://media.licdn.com/dms/image/v2/D4E03AQHPUOqc3YcwJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698057122388?e=2147483647&v=beta&t=1eZ0wmgaAbXuf0sicPLQNcjPkQueZgYPu5s-KNSY2Qg) | elt_7 |
 | elt_3 | elt_6 | elt_1 | ![L'image](https://media.licdn.com/dms/image/v2/C4E03AQEAnSvZSN4kaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517671888309?e=2147483647&v=beta&t=RJMrkZE2fs3qH5LXHm-rJowaQYZ74Yn5G5yfJNWThZQ) | elt_4 | elt_7 |
-| elt_8| elt_4 | elt_9 | elt_1 | elt_4 | elt_7 |
-| elt_2 | elt_5 | elt_8 | elt | elt_4 | elt_7 |
-| [![logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://www.youtube.com/@mmartinnevot)  | elt_6 | elt_9 | elt_1 | elt_4 | ~elt_barré~ |
+| elt_8| elt_4 | ![flag](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png) | elt_1 | elt_4 | elt_7 |
+| elt_2 | ![flag](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png) | elt_8 | elt | elt_4 | elt_7 |
+| [![logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://www.youtube.com/@mmartinnevot)  | elt_6 | elt_9 | elt_1 | [Les misérables](https://beq.ebooksgratuits.com/vents/Hugo-miserables-1.pdf) | ~elt_barré~ |
 ## Le sous-titre
 ### Le sous-sous-titre
 - [ ] Option_1
