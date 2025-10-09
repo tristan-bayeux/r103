@@ -1,14 +1,12 @@
-<body>
-	<h1>Le Titre</h1>
-	<img src="lien_de_l_image" alt="L'image" >
-	<h2>Le sous-titre</h2>
-	<h3>Le sous-sous-titre</h3>
-	<p>Le paragraphe</p>
-	<h3>Le sous-sous-titre</h3>
-	<p>Le paragraphe</p>
-	<h2>Le sous-titre</h2>
-	<h3>Le sous-sous-titre</h3>
-	<p>Le paragraphe</p>
-	<h3>Le sous-sous-titre</h3>
-	<p>Le paragraphe</p>
-</body>
+# Le Titre
+	[L'image](lien_de_l_image)
+	## Le sous-titre
+		### Le sous-sous-titre
+			Le paragraphe
+		### Le sous-sous-titre
+			Le paragraphe
+	## Le sous-titre
+		### Le sous-sous-titre
+			Le paragraphe
+		### Le sous-sous-titre
+			Le paragraphe</p>
