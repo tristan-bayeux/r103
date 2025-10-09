@@ -42,20 +42,10 @@ Une liste
 ***
 ## Le sous-titre
 ### Le sous-sous-titre
-| Tables        | Are           | Cool  |
+| Colone       | Colone           | Colone  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| elt_1 | elt_4 | elt_7 |
+| elt_2 | elt_5 | elt_8 |
+| elt_3 | elt_6 | elt_9 |
 ## Le sous-titre
 ### Le sous-sous-titre
-- | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-- | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
