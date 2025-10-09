@@ -24,11 +24,6 @@ Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italiqu
 > Une citation
 Une liste
 1. 1er élément
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 2. 2nd élément
 ___
 ![L'image](lien_de_l_image)
