@@ -19,7 +19,7 @@ Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italiqu
 ### Le sous-sous-titre
 Le paragraphe contient `1 mot en emphase` et **1 mot gras** et *1 mot en italique*
 > Une citation
-Une liste
+Une listeelt_7
 1. 1er élément
 2. 2nd élément
 ___
@@ -45,7 +45,8 @@ Une liste
 | elt_2 | elt_5 | elt_8 | elt_1 | ![L'image](https://media.licdn.com/dms/image/v2/D4E03AQHPUOqc3YcwJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698057122388?e=2147483647&v=beta&t=1eZ0wmgaAbXuf0sicPLQNcjPkQueZgYPu5s-KNSY2Qg) | elt_7 |
 | elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | elt_7 |
 | [La meilleure chaîne](https://www.youtube.com/@mmartinnevot) | elt_4 | ![L'image](https://media.licdn.com/dms/image/v2/C4E03AQEAnSvZSN4kaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517671888309?e=2147483647&v=beta&t=RJMrkZE2fs3qH5LXHm-rJowaQYZ74Yn5G5yfJNWThZQ) | elt_1 | elt_4 | elt_7 |
-| elt_2 | elt_5 | elt_8 | elt_1 | elt_4 | elt_7 |
+| elt_2 | elt_5 | elt_8 | - elt1
+- elt2 | elt_4 | elt_7 |
 | elt_3 | elt_6 | elt_9 | elt_1 | elt_4 | ~elt_barré~ |
 ## Le sous-titre
 ### Le sous-sous-titre
