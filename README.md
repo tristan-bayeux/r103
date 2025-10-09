@@ -1,4 +1,4 @@
-# Meilleur enseignant AMUhttps://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png
+# Meilleur enseignant AMU
 ![L'image](https://media.licdn.com/dms/image/v2/D4E03AQHPUOqc3YcwJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698057122388?e=2147483647&v=beta&t=1eZ0wmgaAbXuf0sicPLQNcjPkQueZgYPu5s-KNSY2Qg)
 ## Le sous-titre
 Premier paragraphe
